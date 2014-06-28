@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  <subtitle>A simple bank application.</subtitle>
+  <id>http://www.example.com</id>
+  <link href="http://www.example.com"/>
+  <link href="http://www.example.com/feed.xml" rel="self"/>
+  <updated>2014-06-28T09:58:00-05:00</updated>
+  <author>
+    <name>Nandita</name>
+  </author>
+  <entry>
+    <title>Week3 Project - Bank application</title>
+    <link rel="alternate" href="http://www.example.com/2014/06/28/bank-application/"/>
+    <id>http://www.example.com/2014/06/28/bank-application/</id>
+    <published>2014-06-28T09:58:00-05:00</published>
+    <updated>2014-06-28T10:00:36-05:00</updated>
+    <author>
+      <name>Nandita</name>
+    </author>
+    <summary type="html">I chose a simple bank application as my week 3 project.
+</summary>
+  </entry>
+</feed>
