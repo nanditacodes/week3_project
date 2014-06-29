@@ -1484,3 +1484,28 @@ pre {
 /* line 11, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
 .site-head {
   background: url("http://impactconsortium.co/wp-content/uploads/2013/07/zen_stones_background-wallpaper-2560x1600.jpg") no-repeat; }
+
+/* line 16, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+.blog-logo img {
+  border: solid black 1px; }
+
+/* line 20, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+.blog-description {
+  color: black; }
+
+/* line 24, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+article h1 {
+  font-size: 3rem; }
+
+/* line 27, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+a:link {
+  color: red; }
+
+/* line 30, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+a:visited {
+  color: purple; }
+
+/* line 33, /Users/nandita/Projects/Ironyard/week-3/bank_app_blog/source/stylesheets/application.css.scss */
+a:hover {
+  background-color: yellow;
+  color: purple; }

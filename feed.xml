@@ -10,16 +10,17 @@
     <name>Nandita</name>
   </author>
   <entry>
-    <title>Week3 Project - Bank application</title>
+    <title>Bank application</title>
     <link rel="alternate" href="http://www.example.com/2014/06/28/bank-application/"/>
     <id>http://www.example.com/2014/06/28/bank-application/</id>
     <published>2014-06-28T09:58:00-05:00</published>
-    <updated>2014-06-28T15:14:58-05:00</updated>
+    <updated>2014-06-29T13:11:35-05:00</updated>
     <author>
       <name>Nandita</name>
     </author>
-    <summary type="html">I chose a simple bank application as my week 3 project.
-link1
-</summary>
+    <summary type="html">Week 3 project is to create a simple application using TDD. I chose to create a
+bank app. The basis of TDD is that we create failing tests before writing
+production code. My Bank app has 2 attributes customer name and balance. It has
+functionality...</summary>
   </entry>
 </feed>
