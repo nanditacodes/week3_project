@@ -10,5 +10,27 @@ pre {
 
 .site-head {
   background: url('http://impactconsortium.co/wp-content/uploads/2013/07/zen_stones_background-wallpaper-2560x1600.jpg') no-repeat;
-  
+
+}
+
+.blog-logo img {
+  border: solid black 1px;
+}
+
+.blog-description {
+  color : black
+}
+
+article h1 {
+  font-size: 3rem
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  background-color:yellow;
+  color: purple;
 }
