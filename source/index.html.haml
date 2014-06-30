@@ -9,7 +9,7 @@ per_page: 6
   .vertical
     .site-head-content.inner
       - if blog_logo?
-        %a.blog-logo{href: '/'}
+        %a.blog-logo{href: '#'}
           = image_tag blog_logo, alt: 'Blog Logo'
       %h1.blog-title= blog_name
       %h2.blog-description= blog_description
